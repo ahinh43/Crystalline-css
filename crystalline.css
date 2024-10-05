@@ -35,7 +35,7 @@ body {
 
 .app,
 .connecting,
-.appMount-3lHmkl {
+.appMount_ea7e65 {
     /* You can adjust the background brightness by reducing the fourth value of below.
        0.0 for no dark background, 1.0 for full darkness.
 
@@ -44,10 +44,11 @@ body {
        2nd value - Green 0-255
        3rd value - Blue 0-255
        4th value - Alpha (Opacity) 0.0-1.0 */
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.7);
 
     -webkit-transition: background 0.5s ease-in-out;
     transition: background 0.5s ease-in-out;
+
 }
 
 /*
@@ -231,6 +232,8 @@ div.theme-dark.context-menu.item.item-subMenu {
     font-size: 15px;
     color: rgba(255, 255, 255, 0.95);
 }
+
+
 
 .change-log .lead-video,
 .change-log p>img,
@@ -1723,6 +1726,35 @@ div.search {
 
 div.search-bar {
     border-radius: 0 !important;
+}
+
+.interactive_ac5d22 {
+    background: rgba(0, 0, 0, 0) !important;
+    cursor: pointer;
+}
+
+.inset_ac5d22 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.theme-dark .container_b2ca13 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.panels_a4d4d9 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.themedBackground_d0696b {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.buttonContainer_df39bd {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.button_df39bd {
+    background: rgba(0, 0, 0, 0.3) !important;
 }
 
 .option strong,

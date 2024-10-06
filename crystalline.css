@@ -1765,6 +1765,10 @@ div.search-bar {
     background: rgba(0, 0, 0, 0.3) !important;
 }
 
+.flexible_d90b3d{
+	background: rgba(0,0,0,0.9) !important;
+}
+
 .option strong,
 span.displayed-nick,
 span.answer {

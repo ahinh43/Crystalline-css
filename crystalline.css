@@ -1777,6 +1777,28 @@ div.search-bar {
     background: rgba(0, 0, 0, 0.9) !important;
 }
 
+
+.drawerSizingWrapper_af5dbb {
+    background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.inspector_c3120f {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.contentWrapper_f7506e {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+.container_e5da8b {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+.buttonsInner_d5deea {
+    background: rgba(0, 0, 0, 0.4) !important;
+}
+
+
 .option strong,
 span.displayed-nick,
 span.answer {

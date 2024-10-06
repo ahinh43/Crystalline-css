@@ -1742,6 +1742,10 @@ div.search-bar {
 }
 
 .panels_a4d4d9 {
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.container_adcaac {
     background: rgba(0, 0, 0, 0) !important;
 }
 

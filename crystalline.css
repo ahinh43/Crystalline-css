@@ -33,9 +33,10 @@ body {
     background-size: 1921px auto;
 }
 
+
 .app,
 .connecting,
-.appMount_ea7e65 {
+.appMount__51fd7 {
     /* You can adjust the background brightness by reducing the fourth value of below.
        0.0 for no dark background, 1.0 for full darkness.
 
@@ -44,7 +45,7 @@ body {
        2nd value - Green 0-255
        3rd value - Blue 0-255
        4th value - Alpha (Opacity) 0.0-1.0 */
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.75);
 
     -webkit-transition: background 0.5s ease-in-out;
     transition: background 0.5s ease-in-out;
@@ -1726,80 +1727,6 @@ div.search {
 
 div.search-bar {
     border-radius: 0 !important;
-}
-
-.interactive_ac5d22 {
-    background: rgba(0, 0, 0, 0) !important;
-    cursor: pointer;
-}
-
-.inset_ac5d22 {
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.theme-dark .container_b2ca13 {
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.panels_a4d4d9 {
-    background: rgba(0, 0, 0, 0.2) !important;
-}
-
-.activityPanel_a4d4d9 {
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.container_adcaac {
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.themedBackground_d0696b {
-    background: rgba(0, 0, 0, 0.3) !important;
-}
-
-.buttonContainer_df39bd {
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.button_df39bd {
-    background: rgba(0, 0, 0, 0.3) !important;
-}
-
-.flexible_d90b3d {
-    background: rgba(0, 0, 0, 0.9) !important;
-}
-
-.container_f8a938 {
-    background: rgba(0, 0, 0, 0.9) !important;
-}
-
-.scrollableContainer_bdf0de {
-    background: rgba(0, 0, 0, 0.3) !important;
-}
-
-.popout_e6af9c {
-    background: rgba(0, 0, 0, 0.9) !important;
-}
-
-
-.drawerSizingWrapper_af5dbb {
-    background: rgba(0, 0, 0, 0.6) !important;
-}
-
-.inspector_c3120f {
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.contentWrapper_f7506e {
-    background: rgba(0, 0, 0, 0.7) !important;
-}
-
-.container_e5da8b {
-    background: rgba(0, 0, 0, 0.7) !important;
-}
-
-.buttonsInner_d5deea {
-    background: rgba(0, 0, 0, 0.4) !important;
 }
 
 
@@ -6002,4 +5929,138 @@ input {
 /* Text input background fixed */
 .scrollableContainer-2NUZem.webkit-HjD9Er {
     background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+/* Unassorted list of fixes and whatnot may or may not be current */
+
+
+.interactive_bf1984 {
+    background: rgba(0, 0, 0, 0) !important;
+    cursor: pointer;
+}
+
+.inset_ac5d22 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.theme-dark .container_b2ca13 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.panels_a4d4d9 {
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.activityPanel_a4d4d9 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.container_adcaac {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.themedBackground_d0696b {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+
+.flexible_d90b3d {
+    background: rgba(0, 0, 0, 0.9) !important;
+}
+
+.container_f8a938 {
+    background: rgba(0, 0, 0, 0.9) !important;
+}
+
+.popout_e6af9c {
+    background: rgba(0, 0, 0, 0.9) !important;
+}
+
+.drawerSizingWrapper_af5dbb {
+    background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.inspector_c3120f {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+
+.container_e5da8b {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+.buttonsInner_d5deea {
+    background: rgba(0, 0, 0, 0.4) !important;
+}
+
+
+.buttonContainer_df39bd {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+
+/* Discord update 2025/01/30 */
+
+/* Chat text box fix */
+.scrollableContainer__74017 {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Apps and commands button fix */
+.button_e6e74f {
+    background: rgba(0, 0, 0, 0.4) !important;
+}
+
+.contentWrapper__9c62c {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+
+/* Right click menu fix */
+.menu_c1e9c4 {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* Emoji and sticker */
+.drawerSizingWrapper__08434 {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+
+/* Bottom left user box */
+.container__37e49 {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.avatarWrapper__37e49 {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.flex__7c0ba {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+.panels_c48ade {
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+/* Voice chat session box */
+.container_e131a9 {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Activity/streaming box */
+.panel__5dec7 {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.modalSize_a55fdc {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* Soundboard */
+
+.picker__09f65 {
+    background: rgba(0, 0, 0, 0.7) !important;
 }

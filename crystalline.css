@@ -6064,3 +6064,9 @@ input {
 .picker__09f65 {
     background: rgba(0, 0, 0, 0.7) !important;
 }
+
+/* Message accessory container (EZ reactji placement, edit msg, etc.) */
+
+.buttonsInner__5126c{
+	background: rgba(0,0,0,0.3) !important;
+}
